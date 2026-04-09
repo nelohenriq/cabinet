@@ -50,7 +50,7 @@
     "electron-squirrel-startup": "^1.0.1",
     "flexsearch": "^0.8.212",
     "gray-matter": "^4.0.3",
-    "html2canvas": "^1.4.1",
+    "html-to-image": "^1.11.13",
     "js-yaml": "^4.1.1",
     "jspdf": "^4.2.1",
     "lowlight": "^3.3.0",
